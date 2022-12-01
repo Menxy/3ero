@@ -69,5 +69,11 @@ body {
 }
 .review>p {
     padding-left: 20px;
-    border-left: 2px solid rgb(208, 127, 33);
+    border-left: 3px solid rgb(128, 33, 33);
+}
+
+.footer {
+    margin-top: 100px;
+    height: 100px;
+    background-color: rgb(112, 112, 112);
 }
